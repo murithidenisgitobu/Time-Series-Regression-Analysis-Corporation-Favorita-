@@ -1,2 +1,5 @@
 /.venv
 /.env
+# Ignore Data\train.csv directory
+Data/train.csv/train.csv
+Data\transactions.csv\transactions.csv
