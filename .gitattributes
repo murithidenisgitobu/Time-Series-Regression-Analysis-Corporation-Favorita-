@@ -4,3 +4,4 @@ Data/test_data.csv filter=lfs diff=lfs merge=lfs -text
 Data/sample_submission_test_data.csv filter=lfs diff=lfs merge=lfs -text
 Data filter=lfs diff=lfs merge=lfs -text
 .gitignore filter=lfs diff=lfs merge=lfs -text
+Data/train.csv filter=lfs diff=lfs merge=lfs -text
