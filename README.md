@@ -43,6 +43,6 @@ This hypothesis forms the basis for investigating the impact of promotions on sa
 
 This table provides a concise summary of the features present in the datasets, including identifiers, product information, store metadata, oil prices, and holiday events.
 
-**Author**
+**Author**  
 **Denis**   
 @murithidenisgitobu
